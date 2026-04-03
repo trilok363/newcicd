@@ -42,7 +42,7 @@ function App() {
             placeholder="Add a new todo..."
             className="todo-input"
           />
-          <button onClick={addTodo} className="add-btn">Add</button>
+          <button onClick={addTodo} className="add-btn">Add New</button>
         </div>
 
         <div className="todo-list">
